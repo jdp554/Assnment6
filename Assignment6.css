@@ -1,0 +1,7 @@
+.example {font-style: italic; color: red;}
+
+section.add {background-color: #FFFFCC; visibility: hidden; float: inherit;}
+
+section.change {background-color: #FFFFCC; visibility: hidden; float: inherit;}
+
+section.delete {background-color: #FFFFCC; visibility: hidden; float: inherit;}
